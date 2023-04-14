@@ -11,12 +11,27 @@
 
 Todo el código de las siguientes apps está disponible. También, encontrarás un video y post explicando cómo se crean las apps desde cero.
 
+Aquí tienes un listado de las apps:
+
+1️⃣ App Calculadora en SwiftUI
+
+2️⃣ App Pronóstico del tiempo en SwiftUI
+
+3️⃣ App de Tareas en SwiftUI
+
+4️⃣ App con Inteligencia Artificial (Crear y Editar imágenes en SwiftUI)
+<br/>
+
+---
+
 ## 1️⃣ 🧮 Aprende a crear una CALCULADORA (Swift y SwiftUI)
 Enlace al repositorio con toda la información:<br/>
 🔗 https://github.com/SwiftBeta/Calculadora
 <br/>
 <br/>
 ![calculadora](https://user-images.githubusercontent.com/74316958/232086879-b82df9ef-8ece-4b91-9164-48ddfc1f1cdd.gif)
+
+---
 
 ## 2️⃣ ☀️ Aprende a crear una app del PRONÓSTICO DEL TIEMPO (Swift y SwiftUI)
 Enlace al repositorio con toda la información:<br/>
@@ -25,12 +40,16 @@ Enlace al repositorio con toda la información:<br/>
 <br/>
 ![weather](https://user-images.githubusercontent.com/74316958/232088666-53c2c18c-301e-4f69-bd71-e9b8f1c29079.png)
 
+---
+
 ## 3️⃣ ✅ Aprende a crear una app de Lista de Tareas (Swift y SwiftUI)
 Enlace al repositorio con toda la información:<br/>
 🔗 https://github.com/SwiftBeta/Weather
 <br/>
 <br/>
 ![todo](https://user-images.githubusercontent.com/74316958/232092968-f37411b4-f206-43d9-80a0-83489dd3aaa7.gif)
+
+---
 
 ## 4️⃣ 🤖🎨 Aprende a crear una app para CREAR/EDITAR IMÁGENES CON DALL·E 2 (Swift y SwiftUI)
 Enlace al repositorio con toda la información:<br/>
