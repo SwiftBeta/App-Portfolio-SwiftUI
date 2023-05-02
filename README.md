@@ -49,7 +49,8 @@ Enlace al repositorio con toda la información:<br/>
 🔗 https://github.com/SwiftBeta/Weather
 <br/>
 <br/>
-![todo](https://user-images.githubusercontent.com/74316958/232092968-f37411b4-f206-43d9-80a0-83489dd3aaa7.gif)
+![ToDo App](https://user-images.githubusercontent.com/74316958/235731809-45bb313b-b154-4f84-bae0-bd936a73c78b.png)
+
 
 ---
 
