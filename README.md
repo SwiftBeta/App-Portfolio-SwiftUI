@@ -19,7 +19,9 @@ Aquí tienes un listado de las apps:
 
 3️⃣ App de Tareas en SwiftUI
 
-4️⃣ App con Inteligencia Artificial (Crear y Editar imágenes en SwiftUI)
+4️⃣ Juego Wordle en SwiftUI
+
+5️⃣ App con Inteligencia Artificial (Crear y Editar imágenes en SwiftUI)
 <br/>
 
 ---
@@ -51,7 +53,16 @@ Enlace al repositorio con toda la información:<br/>
 
 ---
 
-## 4️⃣ 🤖🎨 Aprende a crear una app para CREAR/EDITAR IMÁGENES CON DALL·E 2 (Swift y SwiftUI)
+## 4️⃣ 👾 Aprende a crear el juego Worlde en SwiftUI
+Enlace al repositorio con toda la información:<br/>
+🔗 https://github.com/SwiftBeta/Wordle
+<br/>
+<br/>
+![Wordle](https://user-images.githubusercontent.com/74316958/235731292-fb23534d-e21e-49b0-b670-002e816ed5ba.png)
+
+---
+
+## 5️⃣ 🤖🎨 Aprende a crear una app para CREAR/EDITAR IMÁGENES CON DALL·E 2 (Swift y SwiftUI)
 Enlace al repositorio con toda la información:<br/>
 🔗 https://github.com/SwiftBeta/SwiftBetaDALLE
 <br/>
