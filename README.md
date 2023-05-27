@@ -13,15 +13,14 @@ Todo el código de las siguientes apps está disponible. También, encontrarás 
 
 Aquí tienes un listado de las apps:
 
-1️⃣ App Calculadora en SwiftUI
-
-2️⃣ App Pronóstico del tiempo en SwiftUI
-
-3️⃣ App de Tareas en SwiftUI
-
-4️⃣ Juego Wordle en SwiftUI
-
-5️⃣ App con Inteligencia Artificial (Crear y Editar imágenes en SwiftUI)
+1️⃣ App Calculadora en SwiftUI<br/>
+2️⃣ App Pronóstico del tiempo en SwiftUI<br/>
+3️⃣ App de Tareas en SwiftUI<br/>
+4️⃣ Juego Wordle en SwiftUI<br/>
+5️⃣ App con Inteligencia Artificial (Crear y Editar imágenes en SwiftUI)<br/>
+6️⃣ Captura texto y repróducelo en tiempo real (VisionKit y SwiftUI)<br/>
+7️⃣ Crea un Chat en SwiftUI (Nos comunicamos con ChatGPT)<br/>
+8️⃣ Dynamic Island en SwiftUI<br/>
 <br/>
 
 ---
@@ -72,3 +71,33 @@ Enlace al repositorio con toda la información:<br/>
 | 🤖 Crear Imágenes | 🎨 Editar Imágenes |
 |-----------|-----------|
 | ![Crear imágenes](https://user-images.githubusercontent.com/74316958/232101951-ac78c4c5-96ee-46c3-ab5f-b6c398577444.gif)    | ![Editar imágenes](https://user-images.githubusercontent.com/74316958/232102031-63964557-8b2a-463c-8585-4347fd1e962e.gif)    |
+
+
+---
+
+## 6️⃣ 👀🗣️ Aprende a crear una app que Captura Texto en tiempo real y lo reproduce (Swift y SwiftUI)
+Enlace al repositorio con toda la información:<br/>
+🔗 https://github.com/SwiftBeta/CaptureText
+<br/>
+<br/>
+![CaptureText App](https://github.com/SwiftBeta/CaptureText/assets/74316958/3b44e3d1-82d9-4a41-8f31-f071ad5db08c)
+
+
+---
+
+## 7️⃣ 🤖💬 ChatGPT Chat para hacerle preguntas y recibir la respuesta (100% SwiftUI)
+Enlace al repositorio con toda la información:<br/>
+🔗 https://github.com/SwiftBeta/JARVIS-ChatGPT-App
+<br/>
+<br/>
+![ChatGPT App](https://github.com/SwiftBeta/JARVIS/assets/74316958/f353aaa8-bc16-478b-b513-7ef5e7e7066a)
+
+
+---
+
+## 8️⃣ 🏝️ Añade la Dynamic Island en tu aplicación (Swift y SwiftUI)
+Enlace al repositorio con toda la información:<br/>
+🔗 https://github.com/SwiftBeta/SwiftBeta-DynamicIsland
+<br/>
+<br/>
+![Dynamic Island en SwiftUI](https://github.com/SwiftBeta/SwiftBeta-DynamicIsland/assets/74316958/4e9a6b65-87c9-44ef-aa86-887a17415303)
