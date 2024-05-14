@@ -45,7 +45,7 @@ Enlace al repositorio con toda la información:<br/>
 
 ## 3️⃣ ✅ Aprende a crear una app de Lista de Tareas (Swift y SwiftUI)
 Enlace al repositorio con toda la información:<br/>
-🔗 https://github.com/SwiftBeta/Weather
+🔗 https://github.com/SwiftBeta/TodoApp
 <br/>
 <br/>
 ![ToDo App](https://user-images.githubusercontent.com/74316958/235731809-45bb313b-b154-4f84-bae0-bd936a73c78b.png)
